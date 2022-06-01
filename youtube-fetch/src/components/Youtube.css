@@ -1,0 +1,56 @@
+.icon_input {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-around; */
+}
+.icon {
+  height: 10px;
+  width: 20px;
+}
+img {
+  height: 60px;
+  width: 120px;
+}
+.input_box {
+  border: 1px solid white;
+  margin: auto;
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+}
+input {
+  display: inline-block;
+  width: 300px;
+  color: white;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+button {
+  display: inline-block;
+  width: 95px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  outline:none;
+}
+.youtube_box {
+  display: grid;
+  grid-template-columns: 35% 35% 35%;
+}
+.y_img {
+  height: 250px;
+  width: 400px;
+  margin-top: 20px;
+}
+body {
+  background-color: black;
+}
+h3 {
+  color: white;
+  font-size: 20px;
+}
+p {
+  color: white;
+  font-size: 10px;
+}
